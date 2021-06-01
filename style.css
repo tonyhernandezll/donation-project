@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form-child {
+  width: 400px;
+  margin: 150px auto;
+  padding: 250px auto;
+  box-sizing: border-box;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
+
+.form-child p {
+  margin: 20px;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.form-child h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  margin: 25px;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+}
+
+.pop-message {
+  color: red;
+  font-weight: 800;
+  font-size: 15px;
+}
+
+button {
+  color: white;
+  background-color: rgb(79, 122, 216);
+  border-radius: 4px;
+  padding: 5px;
+}
+
+
